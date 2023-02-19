@@ -1,21 +1,23 @@
-* {
-    color: black;}
 
-a {
-    color: #555;
+.wd-active{
     text-decoration: none;
-    font-size: 15px;
-    padding: 16px;
+    border:none;
+    text-underline: #0b5ed7;
+
 }
+
+.wd-bird-color {
+    color: blue;
+    text-decoration: none;
+}
+
 
 a:hover {
     color: lightblue;
     font-size: 20px;
 }
 
-.fab{
-    color:dodgerblue;
-}
+.
 
 input {
     margin-top: 30px;
@@ -32,5 +34,35 @@ input {
     --bs-list-group-border-color: clear;
 
 }
+
+
+
+
+.wd-follower-background {
+    background-color: #e1e1dc;
+
+}
+
+
+
+
+
+.wd-button-black {
+   color:black;
+}
+
+
+.button {
+    color:white;
+    background-color: black;
+}
+.change-image{
+    background-image:
+            url("https://images.unsplash.com/photo-1477959858617-67f85cf4f1df?ixlib=rb-4.0.3&ix id=MnwxMjA3fDB8MHxzZWFyY2h8 Mnx8Y2l0eXxlbnwwfHwwfHw%3D&w=1000&q=80");
+    width:100%;
+}
+
+
+
 
 
