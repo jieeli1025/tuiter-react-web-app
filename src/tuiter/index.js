@@ -18,7 +18,7 @@ import EditProfile   from "./profile/edit-profile";
 
 
 const store = configureStore({
-    reducer: {who: whoReducer, posts: postReducer, tuits:homeTuitsReducer, profile:profileReducer}});
+    reducer: {who: whoReducer, tuitsData:homeTuitsReducer, posts: postReducer,  profile:profileReducer}});
 
 
 
