@@ -1,5 +1,5 @@
 import axios from 'axios';
-//https://tuiter-node-server-app-5y8d.onrender.com/api/tuits
+//https://tuiter-node-server-app-5y8d.onrender.com/api/tuits deploy in netlify
 const API_BASE = process.env.REACT_APP_API_BASE;
 const TUITS_API = `${API_BASE}/tuits`;
 console.log(TUITS_API)
